@@ -37,7 +37,7 @@ To track account balance, withdrawals and deposits with or without a data/intern
 
 -   [The URL of the GitHub Repository.](https://github.com/noori36/PWA-Budget-Tracker)
 
-- [The URL of the functional, deployed application.](HEROKU)
+- [The URL of the functional, deployed application on Heroku.](https://enigmatic-atoll-30808.herokuapp.com)
 
 
 ## Contributing:
