@@ -33,7 +33,7 @@ SO THAT my account balance is accurate when I am traveling
 To track account balance, withdrawals and deposits with or without a data/internet connection.
 
 - Screenshot
-<br><img src="./assets/images/PATH" alt="screenshot of generated HTML" width="350"/>
+<br><img src="./public/images/BugetTracker.png" alt="screenshot of Buget Tracker" width="350"/>
 
 -   [The URL of the GitHub Repository.](https://github.com/noori36/PWA-Budget-Tracker)
 
