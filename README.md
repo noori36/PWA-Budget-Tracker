@@ -1,6 +1,6 @@
 # PWA-Budget-Tracker
 
-Budget Tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should update the total when brought back online. Finally, you’ll deploy the application to Heroku.
+Budget Tracker allows users to access the app offline. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should update the total when brought back online.
   
 ## User Story
 
